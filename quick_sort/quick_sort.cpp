@@ -50,3 +50,6 @@ void q_short(int low, int high)
 	//Outher containing elements greather than pivot
 
 	pivot = arr[low];//Langkah 2
+
+	i = low + 1;//langkah 3
+	j = high;//langkah 4
